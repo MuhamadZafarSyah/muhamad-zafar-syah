@@ -152,6 +152,8 @@
     </div>
 </section>
 
+
+
 <section class=" text-white my-56" id="skils">
 <div style="opacity: 1; transform: none;">
   <h2 class="text-black text-[2.5em] font-bold -translate-y-10 text-center z-[1]">My Skills</h2>
@@ -508,7 +510,7 @@
 <footer class="footer p-16 bg-[#131414]">
         <div class="footer-content">
             <a href="#" class="logo">Muhamad Zafar <span>Syah</span></a>
-            <p class="mt-0">Frontend Developer</p>
+            <p class="mt-0">Frontend Web Developer</p>
             <div class="icon">
                 <a href="https://twitter.com/zafar_syah" target="_blank"><i class='bx bxl-twitter'></i></a>
                 <a href="https://www.instagram.com/zfarrrr_/" target="_blank"><i class='bx bxl-instagram-alt'></i></a>
